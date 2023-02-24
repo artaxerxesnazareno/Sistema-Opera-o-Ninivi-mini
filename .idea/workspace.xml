@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28150e99-13dc-43be-9507-40889e74993d" name="Changes" comment="salvando cadastro nome, senha e data Nascimento">
+      <change afterPath="$PROJECT_DIR$/app/views/cadastrarDiretor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/dashbordDireitor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/inscricao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/signin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/signin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Sistema Operação Ninivi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sistema Operação Ninivi mini.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1675948278" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1675948277" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.1" />
+  <component name="ProjectId" id="2LVDtvP2oK1k9aae9U5jtRk98Et" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/artaxerxes/PhpstormProjects/Sistema Operação Ninivi mini/app/views/assets/image&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Sistema Operação Ninivi mini/app/views/assets/image" />
+      <recent name="$PROJECT_DIR$/../Sistema Operação Ninivi mini/app/views" />
+      <recent name="$PROJECT_DIR$/app/views" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/views" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/views/assets/image" />
+      <recent name="$PROJECT_DIR$/views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28150e99-13dc-43be-9507-40889e74993d" name="Changes" comment="" />
+      <created>1675947576901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675947576901</updated>
+      <workItem from="1675947579037" duration="2436000" />
+      <workItem from="1676367325084" duration="9742000" />
+      <workItem from="1676400999438" duration="2146000" />
+      <workItem from="1676442724994" duration="481000" />
+      <workItem from="1676443391237" duration="4045000" />
+      <workItem from="1676455044086" duration="5630000" />
+      <workItem from="1676478525517" duration="5013000" />
+      <workItem from="1676488678423" duration="960000" />
+      <workItem from="1676515415487" duration="212000" />
+      <workItem from="1676526546094" duration="5674000" />
+      <workItem from="1676532952082" duration="7433000" />
+      <workItem from="1676541303480" duration="6107000" />
+      <workItem from="1676553890346" duration="2779000" />
+      <workItem from="1676571754065" duration="1674000" />
+      <workItem from="1676588035773" duration="3162000" />
+      <workItem from="1676644869133" duration="10167000" />
+      <workItem from="1676699672519" duration="635000" />
+      <workItem from="1676700867071" duration="3731000" />
+      <workItem from="1676711093193" duration="7211000" />
+      <workItem from="1676756842099" duration="881000" />
+      <workItem from="1676790200324" duration="4330000" />
+      <workItem from="1676800917966" duration="1389000" />
+      <workItem from="1676829291825" duration="2065000" />
+      <workItem from="1676881982354" duration="5546000" />
+      <workItem from="1676989687884" duration="10593000" />
+      <workItem from="1677020161771" duration="3889000" />
+      <workItem from="1677028960897" duration="2619000" />
+      <workItem from="1677066322224" duration="520000" />
+      <workItem from="1677125315957" duration="270000" />
+      <workItem from="1677125958421" duration="2863000" />
+      <workItem from="1677133053825" duration="10310000" />
+      <workItem from="1677147763205" duration="7620000" />
+      <workItem from="1677187277956" duration="5035000" />
+      <workItem from="1677242012925" duration="604000" />
+      <workItem from="1677254062386" duration="7265000" />
+    </task>
+    <task id="LOCAL-00001" summary="iniciando o projeto">
+      <created>1675948264737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675948264737</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="iniciando o projeto" />
+    <MESSAGE value="salvando cadastro nome, senha e data Nascimento" />
+    <option name="LAST_COMMIT_MESSAGE" value="salvando cadastro nome, senha e data Nascimento" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../Sistema Operação Ninivi mini/app/views/test1.php</url>
+          <line>81</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JavascriptDebugType">
+        <watch expression="aaa" language="JavaScript" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
