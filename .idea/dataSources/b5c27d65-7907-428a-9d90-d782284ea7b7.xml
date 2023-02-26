@@ -1147,7 +1147,7 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </table>
     <column id="313" parent="308" name="id">
-      <AutoIncrement>1</AutoIncrement>
+      <AutoIncrement>7</AutoIncrement>
       <DasType>int unsigned|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
@@ -1176,159 +1176,154 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <NotNull>1</NotNull>
       <Position>6</Position>
     </column>
-    <column id="319" parent="308" name="id_igreja">
-      <DasType>int unsigned|0s</DasType>
+    <column id="319" parent="308" name="clube">
+      <DasType>varchar(255)|0s</DasType>
       <NotNull>1</NotNull>
       <Position>7</Position>
     </column>
-    <foreign-key id="320" parent="308" name="direitores_igrejas">
-      <ColNames>id_igreja</ColNames>
-      <RefColNames>id</RefColNames>
-      <RefTableName>igrejas</RefTableName>
-    </foreign-key>
-    <index id="321" parent="308" name="PRIMARY">
+    <index id="320" parent="308" name="PRIMARY">
       <ColNames>id</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <index id="322" parent="308" name="direitores_igrejas">
-      <ColNames>id_igreja</ColNames>
+    <index id="321" parent="308" name="direitores_igrejas">
+      <ColNames>clube</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="323" parent="308" name="PRIMARY">
+    <key id="322" parent="308" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="324" parent="309" name="id">
-      <AutoIncrement>67</AutoIncrement>
+    <column id="323" parent="309" name="id">
+      <AutoIncrement>66</AutoIncrement>
       <DasType>int unsigned|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="325" parent="309" name="nome_distrito">
+    <column id="324" parent="309" name="nome_distrito">
       <DasType>varchar(255)|0s</DasType>
       <NotNull>1</NotNull>
       <Position>2</Position>
     </column>
-    <column id="326" parent="309" name="id_regiao">
+    <column id="325" parent="309" name="id_regiao">
       <DasType>int unsigned|0s</DasType>
       <Position>3</Position>
     </column>
-    <foreign-key id="327" parent="309" name="distritos_regiao">
+    <foreign-key id="326" parent="309" name="distritos_regiao">
       <ColNames>id_regiao</ColNames>
       <RefColNames>id</RefColNames>
       <RefTableName>regioes</RefTableName>
     </foreign-key>
-    <index id="328" parent="309" name="PRIMARY">
+    <index id="327" parent="309" name="PRIMARY">
       <ColNames>id</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <index id="329" parent="309" name="distritos_regiao">
+    <index id="328" parent="309" name="distritos_regiao">
       <ColNames>id_regiao</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="330" parent="309" name="PRIMARY">
+    <key id="329" parent="309" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="331" parent="310" name="id">
+    <column id="330" parent="310" name="id">
       <AutoIncrement>19</AutoIncrement>
       <DasType>int unsigned|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="332" parent="310" name="nome_igreja">
+    <column id="331" parent="310" name="nome_igreja">
       <DasType>varchar(255)|0s</DasType>
       <NotNull>1</NotNull>
       <Position>2</Position>
     </column>
-    <column id="333" parent="310" name="id_distrito">
+    <column id="332" parent="310" name="id_distrito">
       <DasType>int unsigned|0s</DasType>
       <Position>3</Position>
     </column>
-    <foreign-key id="334" parent="310" name="igrejas_distrito">
+    <foreign-key id="333" parent="310" name="igrejas_distrito">
       <ColNames>id_distrito</ColNames>
       <RefColNames>id</RefColNames>
       <RefTableName>distritos</RefTableName>
     </foreign-key>
-    <index id="335" parent="310" name="PRIMARY">
+    <index id="334" parent="310" name="PRIMARY">
       <ColNames>id</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <index id="336" parent="310" name="igrejas_distrito">
+    <index id="335" parent="310" name="igrejas_distrito">
       <ColNames>id_distrito</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="337" parent="310" name="PRIMARY">
+    <key id="336" parent="310" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="338" parent="311" name="id">
-      <AutoIncrement>1</AutoIncrement>
+    <column id="337" parent="311" name="id">
+      <AutoIncrement>5</AutoIncrement>
       <DasType>int unsigned|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="339" parent="311" name="nome">
+    <column id="338" parent="311" name="nome">
       <DasType>varchar(255)|0s</DasType>
       <NotNull>1</NotNull>
       <Position>2</Position>
     </column>
-    <column id="340" parent="311" name="data_nascimento">
+    <column id="339" parent="311" name="data_nascimento">
       <DasType>date|0s</DasType>
       <NotNull>1</NotNull>
       <Position>3</Position>
     </column>
-    <column id="341" parent="311" name="funcao">
+    <column id="340" parent="311" name="funcao">
       <DasType>varchar(255)|0s</DasType>
       <Position>4</Position>
     </column>
-    <column id="342" parent="311" name="id_direitor">
+    <column id="341" parent="311" name="id_direitor">
       <DasType>int unsigned|0s</DasType>
       <NotNull>1</NotNull>
       <Position>5</Position>
     </column>
-    <foreign-key id="343" parent="311" name="inscritos_direitores">
+    <foreign-key id="342" parent="311" name="inscritos_direitores">
       <ColNames>id_direitor</ColNames>
       <RefColNames>id</RefColNames>
       <RefTableName>direitores</RefTableName>
     </foreign-key>
-    <index id="344" parent="311" name="PRIMARY">
+    <index id="343" parent="311" name="PRIMARY">
       <ColNames>id</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <index id="345" parent="311" name="inscritos_direitores">
+    <index id="344" parent="311" name="inscritos_direitores">
       <ColNames>id_direitor</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="346" parent="311" name="PRIMARY">
+    <key id="345" parent="311" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="347" parent="312" name="id">
-      <AutoIncrement>10</AutoIncrement>
+    <column id="346" parent="312" name="id">
+      <AutoIncrement>9</AutoIncrement>
       <DasType>int unsigned|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="348" parent="312" name="nome_regiao">
+    <column id="347" parent="312" name="nome_regiao">
       <DasType>varchar(255)|0s</DasType>
       <NotNull>1</NotNull>
       <Position>2</Position>
     </column>
-    <index id="349" parent="312" name="PRIMARY">
+    <index id="348" parent="312" name="PRIMARY">
       <ColNames>id</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="350" parent="312" name="PRIMARY">
+    <key id="349" parent="312" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>

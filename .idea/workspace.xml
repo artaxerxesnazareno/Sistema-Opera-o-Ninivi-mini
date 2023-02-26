@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28150e99-13dc-43be-9507-40889e74993d" name="Changes" comment="salvando cadastro nome, senha e data Nascimento">
-      <change afterPath="$PROJECT_DIR$/app/views/cadastrarDiretor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/dashbordDireitor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/inscricao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/signin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/signin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Sistema Operação Ninivi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sistema Operação Ninivi mini.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/menu.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/register.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b5c27d65-7907-428a-9d90-d782284ea7b7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b5c27d65-7907-428a-9d90-d782284ea7b7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +76,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -153,7 +143,14 @@
       <workItem from="1677147763205" duration="7620000" />
       <workItem from="1677187277956" duration="5035000" />
       <workItem from="1677242012925" duration="604000" />
-      <workItem from="1677254062386" duration="7265000" />
+      <workItem from="1677254062386" duration="8606000" />
+      <workItem from="1677296479218" duration="3767000" />
+      <workItem from="1677311541077" duration="12258000" />
+      <workItem from="1677342902523" duration="5538000" />
+      <workItem from="1677349892806" duration="5693000" />
+      <workItem from="1677364378720" duration="2423000" />
+      <workItem from="1677391095944" duration="614000" />
+      <workItem from="1677395881477" duration="4976000" />
     </task>
     <task id="LOCAL-00001" summary="iniciando o projeto">
       <created>1675948264737</created>
